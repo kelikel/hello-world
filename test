@@ -2,3 +2,4 @@ print("hello world")
 for i in range(100):
   print(i)
 console.write("Coming");
+console.write("锤李静璇");
